@@ -1,0 +1,41 @@
+# Security Policy
+
+Last Updated: [DATE]
+
+## 1. Reporting Vulnerabilities
+
+If you discover a security vulnerability in our project, please report it responsibly by emailing [security email].
+
+## 2. Response Timeline
+
+We will:
+- Acknowledge receipt within 48 hours
+- Investigate and respond with our assessment within 7 days
+- Keep you informed of our progress
+
+## 3. Security Practices
+
+### 3.1 For Maintainers
+- Regular dependency updates
+- Code reviews for security issues
+- Principle of least privilege for repository access
+
+### 3.2 For Contributors
+- Sign commits with GPG
+- Follow secure coding practices
+- Report security concerns promptly
+
+## 4. Data Security
+
+We implement measures to protect data including:
+- Access controls
+- Encryption in transit
+- Secure storage practices
+
+## 5. Incident Response
+
+In case of a security incident, we will:
+- Contain the incident
+- Assess the impact
+- Notify affected parties if necessary
+- Implement measures to prevent recurrence
